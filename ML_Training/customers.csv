@@ -1,0 +1,1001 @@
+customer_id,age,gender,skin_type,skin_concerns
+1,62,Female,Sensitive,Dark Spots
+2,18,Other,Sensitive,"Dark Spots, Dryness"
+3,21,Female,Dry,"Wrinkles, Dark Spots, Uneven Texture"
+4,21,Male,Combination,"Uneven Texture, Redness, Wrinkles"
+5,57,Female,Oily,"Acne, Dark Spots, Dryness"
+6,27,Other,Oily,"Dryness, Dark Spots"
+7,37,Other,Dry,"Dryness, Uneven Texture, Dark Spots"
+8,39,Male,Oily,Uneven Texture
+9,54,Female,Oily,"Dryness, Dark Spots, Wrinkles"
+10,41,Other,Combination,"Acne, Wrinkles, Redness"
+11,24,Male,Dry,"Dryness, Acne, Redness"
+12,42,Female,Sensitive,Dark Spots
+13,42,Other,Combination,"Acne, Redness, Dark Spots"
+14,30,Other,Dry,"Redness, Uneven Texture, Dark Spots"
+15,19,Female,Oily,"Dryness, Dark Spots, Wrinkles"
+16,56,Female,Dry,Wrinkles
+17,57,Male,Combination,"Acne, Uneven Texture"
+18,41,Other,Dry,Acne
+19,64,Male,Sensitive,"Redness, Dark Spots, Wrinkles"
+20,42,Male,Sensitive,"Dark Spots, Dryness, Redness"
+21,35,Other,Combination,Dark Spots
+22,55,Other,Oily,"Redness, Dark Spots"
+23,43,Male,Dry,Uneven Texture
+24,31,Female,Oily,"Wrinkles, Dark Spots, Uneven Texture"
+25,26,Female,Sensitive,Acne
+26,27,Male,Dry,Redness
+27,38,Other,Oily,Acne
+28,34,Other,Dry,"Redness, Acne, Dryness"
+29,23,Male,Combination,Acne
+30,33,Other,Oily,Wrinkles
+31,18,Other,Oily,"Wrinkles, Acne"
+32,36,Other,Oily,"Dryness, Redness, Acne"
+33,53,Female,Oily,Acne
+34,42,Other,Combination,"Dryness, Wrinkles"
+35,47,Male,Sensitive,Redness
+36,37,Male,Sensitive,Dark Spots
+37,37,Female,Sensitive,"Wrinkles, Uneven Texture, Acne"
+38,32,Other,Dry,Dark Spots
+39,57,Other,Combination,Redness
+40,50,Female,Dry,Dryness
+41,19,Other,Sensitive,"Redness, Dark Spots, Uneven Texture"
+42,27,Female,Combination,Redness
+43,50,Other,Oily,"Uneven Texture, Acne"
+44,49,Female,Oily,"Dark Spots, Wrinkles, Redness"
+45,28,Female,Combination,"Dark Spots, Uneven Texture, Wrinkles"
+46,41,Other,Combination,"Uneven Texture, Dryness"
+47,53,Other,Oily,Redness
+48,29,Male,Combination,Wrinkles
+49,46,Male,Sensitive,"Uneven Texture, Redness"
+50,52,Female,Oily,"Uneven Texture, Redness"
+51,18,Female,Oily,Dryness
+52,18,Male,Combination,"Wrinkles, Dryness, Redness"
+53,54,Other,Oily,Dryness
+54,23,Female,Combination,"Acne, Dryness"
+55,56,Male,Oily,"Wrinkles, Acne, Dryness"
+56,58,Other,Sensitive,"Acne, Wrinkles"
+57,35,Male,Oily,"Redness, Uneven Texture, Acne"
+58,33,Male,Oily,"Uneven Texture, Wrinkles, Dark Spots"
+59,22,Female,Dry,Dryness
+60,59,Female,Oily,Dark Spots
+61,60,Female,Oily,"Wrinkles, Redness"
+62,49,Other,Combination,Wrinkles
+63,19,Female,Oily,Acne
+64,19,Male,Combination,"Dark Spots, Uneven Texture, Acne"
+65,57,Other,Sensitive,"Uneven Texture, Dryness, Redness"
+66,59,Female,Dry,Dryness
+67,53,Other,Combination,Wrinkles
+68,56,Male,Combination,"Dark Spots, Uneven Texture"
+69,29,Other,Oily,"Redness, Acne"
+70,64,Male,Combination,Wrinkles
+71,36,Other,Combination,"Dryness, Redness"
+72,45,Male,Combination,Dryness
+73,18,Other,Dry,Dark Spots
+74,32,Male,Oily,"Dryness, Dark Spots"
+75,53,Female,Sensitive,Acne
+76,30,Other,Sensitive,"Dark Spots, Uneven Texture"
+77,60,Male,Sensitive,Uneven Texture
+78,38,Female,Sensitive,Dark Spots
+79,29,Female,Dry,Uneven Texture
+80,22,Other,Sensitive,"Acne, Uneven Texture, Redness"
+81,24,Male,Dry,Dryness
+82,22,Male,Oily,"Redness, Uneven Texture"
+83,21,Female,Sensitive,"Redness, Wrinkles"
+84,30,Female,Oily,"Wrinkles, Dark Spots"
+85,54,Other,Dry,"Wrinkles, Dark Spots"
+86,58,Male,Oily,"Acne, Redness, Dryness"
+87,32,Other,Dry,Dryness
+88,33,Female,Combination,Uneven Texture
+89,38,Male,Dry,"Wrinkles, Acne, Uneven Texture"
+90,53,Female,Sensitive,"Redness, Wrinkles"
+91,41,Male,Sensitive,Redness
+92,33,Female,Sensitive,"Dryness, Dark Spots, Uneven Texture"
+93,31,Female,Dry,"Redness, Wrinkles, Acne"
+94,39,Female,Combination,"Acne, Redness"
+95,23,Male,Combination,"Wrinkles, Dryness, Dark Spots"
+96,59,Other,Sensitive,Acne
+97,53,Other,Oily,Wrinkles
+98,18,Male,Oily,"Acne, Dryness"
+99,49,Female,Dry,Uneven Texture
+100,23,Female,Combination,"Dryness, Redness, Acne"
+101,48,Other,Oily,"Redness, Uneven Texture, Acne"
+102,18,Other,Sensitive,Dark Spots
+103,54,Other,Sensitive,"Dryness, Redness"
+104,52,Other,Dry,Uneven Texture
+105,47,Male,Dry,"Redness, Uneven Texture"
+106,21,Female,Combination,Dryness
+107,52,Female,Combination,"Dryness, Uneven Texture"
+108,60,Male,Dry,"Wrinkles, Uneven Texture, Dark Spots"
+109,31,Other,Combination,Acne
+110,57,Female,Sensitive,Dryness
+111,39,Other,Oily,"Uneven Texture, Wrinkles, Dark Spots"
+112,27,Female,Oily,"Dryness, Uneven Texture, Redness"
+113,18,Male,Oily,"Wrinkles, Acne"
+114,28,Male,Dry,"Dark Spots, Acne, Uneven Texture"
+115,61,Male,Sensitive,"Acne, Uneven Texture"
+116,41,Other,Sensitive,"Uneven Texture, Dark Spots, Acne"
+117,20,Other,Combination,Dryness
+118,52,Female,Oily,"Wrinkles, Acne, Dryness"
+119,53,Female,Combination,Dryness
+120,48,Female,Oily,Acne
+121,21,Female,Combination,Redness
+122,36,Other,Dry,Acne
+123,64,Other,Sensitive,"Dark Spots, Acne, Wrinkles"
+124,53,Female,Sensitive,Acne
+125,38,Female,Oily,Dryness
+126,35,Male,Oily,"Dryness, Uneven Texture"
+127,45,Male,Sensitive,"Uneven Texture, Dark Spots"
+128,32,Male,Combination,Acne
+129,59,Female,Oily,"Dark Spots, Wrinkles"
+130,19,Male,Dry,"Acne, Redness"
+131,54,Male,Dry,Wrinkles
+132,28,Other,Oily,"Acne, Dark Spots, Redness"
+133,40,Other,Oily,"Wrinkles, Uneven Texture, Redness"
+134,61,Female,Oily,"Dark Spots, Uneven Texture"
+135,58,Male,Oily,Dark Spots
+136,29,Female,Sensitive,"Dark Spots, Redness"
+137,20,Other,Combination,Redness
+138,34,Male,Oily,"Redness, Dark Spots, Wrinkles"
+139,50,Female,Dry,Wrinkles
+140,18,Female,Dry,Wrinkles
+141,56,Female,Combination,"Uneven Texture, Acne"
+142,37,Male,Oily,"Acne, Uneven Texture"
+143,64,Male,Sensitive,"Redness, Dryness"
+144,60,Other,Dry,"Dryness, Dark Spots, Redness"
+145,58,Male,Dry,"Uneven Texture, Dark Spots"
+146,31,Other,Oily,"Dryness, Acne"
+147,48,Female,Combination,"Wrinkles, Dark Spots"
+148,42,Female,Sensitive,Wrinkles
+149,20,Male,Combination,Redness
+150,21,Other,Dry,"Dryness, Uneven Texture, Wrinkles"
+151,48,Female,Sensitive,Wrinkles
+152,52,Female,Combination,"Wrinkles, Dark Spots, Dryness"
+153,61,Other,Oily,"Wrinkles, Dark Spots"
+154,31,Male,Sensitive,"Dryness, Acne, Wrinkles"
+155,58,Female,Oily,"Dark Spots, Redness, Wrinkles"
+156,26,Female,Sensitive,Uneven Texture
+157,37,Female,Dry,"Dryness, Dark Spots, Acne"
+158,49,Male,Combination,"Acne, Uneven Texture, Dark Spots"
+159,26,Female,Sensitive,"Acne, Dark Spots"
+160,44,Female,Combination,"Wrinkles, Redness, Acne"
+161,20,Male,Oily,"Dark Spots, Redness"
+162,21,Female,Oily,"Wrinkles, Uneven Texture, Acne"
+163,62,Female,Combination,"Redness, Wrinkles"
+164,32,Other,Dry,"Acne, Dryness, Redness"
+165,50,Other,Combination,"Dryness, Dark Spots"
+166,22,Other,Dry,Acne
+167,21,Other,Oily,"Dryness, Redness"
+168,63,Female,Dry,"Uneven Texture, Dark Spots, Redness"
+169,29,Other,Sensitive,"Dryness, Wrinkles, Uneven Texture"
+170,40,Female,Combination,"Uneven Texture, Acne"
+171,31,Female,Combination,Uneven Texture
+172,63,Female,Oily,"Wrinkles, Acne, Dark Spots"
+173,29,Female,Sensitive,Redness
+174,34,Male,Oily,"Uneven Texture, Dryness, Acne"
+175,42,Female,Oily,Redness
+176,47,Male,Combination,"Uneven Texture, Dark Spots, Wrinkles"
+177,39,Male,Combination,Acne
+178,64,Female,Sensitive,"Dark Spots, Dryness, Wrinkles"
+179,43,Female,Sensitive,"Uneven Texture, Dryness, Wrinkles"
+180,34,Female,Dry,"Dark Spots, Wrinkles, Redness"
+181,37,Male,Sensitive,"Dryness, Uneven Texture"
+182,51,Female,Sensitive,"Wrinkles, Uneven Texture, Dryness"
+183,58,Male,Oily,"Acne, Wrinkles"
+184,50,Other,Oily,Dark Spots
+185,54,Male,Dry,Redness
+186,24,Female,Oily,"Redness, Dark Spots, Uneven Texture"
+187,39,Female,Sensitive,Uneven Texture
+188,49,Other,Sensitive,"Dryness, Uneven Texture, Dark Spots"
+189,31,Other,Sensitive,Dark Spots
+190,25,Female,Oily,Acne
+191,42,Male,Combination,Dark Spots
+192,33,Other,Oily,Acne
+193,59,Female,Dry,"Dryness, Redness, Wrinkles"
+194,36,Female,Dry,"Redness, Acne"
+195,58,Other,Oily,"Dark Spots, Redness"
+196,33,Female,Combination,"Acne, Redness"
+197,29,Male,Dry,"Acne, Wrinkles"
+198,56,Other,Combination,Wrinkles
+199,47,Female,Combination,"Redness, Dryness"
+200,19,Female,Sensitive,"Uneven Texture, Wrinkles"
+201,49,Male,Combination,"Acne, Uneven Texture, Dryness"
+202,62,Female,Sensitive,Dryness
+203,42,Female,Sensitive,"Acne, Uneven Texture"
+204,42,Male,Dry,Wrinkles
+205,21,Female,Dry,"Redness, Acne"
+206,36,Female,Sensitive,Wrinkles
+207,21,Male,Sensitive,Wrinkles
+208,60,Female,Combination,"Dryness, Acne"
+209,30,Other,Combination,"Redness, Wrinkles, Dark Spots"
+210,56,Female,Sensitive,"Uneven Texture, Dark Spots, Redness"
+211,53,Male,Oily,Redness
+212,40,Other,Oily,Uneven Texture
+213,23,Female,Dry,Dark Spots
+214,41,Other,Oily,"Redness, Uneven Texture, Dryness"
+215,61,Male,Oily,"Uneven Texture, Dark Spots"
+216,50,Male,Combination,Uneven Texture
+217,29,Other,Combination,Uneven Texture
+218,58,Male,Oily,"Dark Spots, Uneven Texture, Wrinkles"
+219,38,Female,Sensitive,"Redness, Wrinkles"
+220,28,Male,Oily,"Redness, Dark Spots, Uneven Texture"
+221,61,Other,Oily,Dryness
+222,55,Male,Dry,"Acne, Wrinkles, Redness"
+223,46,Female,Dry,Uneven Texture
+224,58,Male,Dry,"Dark Spots, Redness"
+225,20,Other,Dry,"Dryness, Acne, Redness"
+226,45,Other,Combination,"Dryness, Dark Spots"
+227,37,Male,Dry,"Uneven Texture, Wrinkles, Dryness"
+228,43,Other,Sensitive,"Dark Spots, Acne, Uneven Texture"
+229,41,Male,Sensitive,"Wrinkles, Dark Spots, Redness"
+230,64,Female,Oily,Acne
+231,38,Female,Dry,"Dryness, Wrinkles"
+232,47,Female,Combination,"Wrinkles, Dark Spots, Acne"
+233,21,Female,Oily,"Uneven Texture, Wrinkles, Dark Spots"
+234,53,Male,Sensitive,"Acne, Uneven Texture, Wrinkles"
+235,57,Male,Oily,Uneven Texture
+236,27,Female,Oily,Dark Spots
+237,27,Other,Sensitive,Wrinkles
+238,59,Female,Sensitive,Dark Spots
+239,41,Female,Dry,"Dark Spots, Dryness, Redness"
+240,21,Male,Sensitive,"Redness, Uneven Texture"
+241,64,Other,Sensitive,Redness
+242,44,Male,Sensitive,"Wrinkles, Acne"
+243,62,Other,Dry,"Uneven Texture, Redness, Wrinkles"
+244,21,Male,Combination,Wrinkles
+245,49,Male,Oily,Uneven Texture
+246,27,Other,Dry,"Acne, Dryness, Uneven Texture"
+247,28,Other,Sensitive,"Wrinkles, Redness, Acne"
+248,45,Female,Combination,"Uneven Texture, Dryness, Acne"
+249,63,Other,Oily,"Acne, Dark Spots"
+250,25,Female,Dry,"Wrinkles, Redness"
+251,57,Female,Dry,"Dryness, Dark Spots, Redness"
+252,39,Female,Sensitive,Dark Spots
+253,51,Other,Combination,"Dryness, Acne, Dark Spots"
+254,62,Other,Oily,"Dryness, Acne"
+255,52,Female,Combination,"Acne, Uneven Texture"
+256,52,Female,Oily,"Uneven Texture, Redness"
+257,42,Other,Combination,"Wrinkles, Redness, Dark Spots"
+258,51,Female,Combination,Acne
+259,23,Other,Combination,Redness
+260,58,Other,Combination,Wrinkles
+261,54,Female,Oily,"Acne, Redness, Wrinkles"
+262,18,Female,Combination,"Uneven Texture, Dark Spots"
+263,29,Female,Sensitive,"Redness, Dryness"
+264,52,Male,Oily,Redness
+265,23,Male,Sensitive,Dark Spots
+266,34,Male,Sensitive,"Uneven Texture, Dark Spots, Wrinkles"
+267,26,Male,Sensitive,"Wrinkles, Redness"
+268,19,Male,Oily,"Uneven Texture, Wrinkles, Acne"
+269,35,Other,Sensitive,"Dark Spots, Uneven Texture"
+270,53,Female,Oily,"Uneven Texture, Dark Spots"
+271,45,Female,Combination,"Wrinkles, Dryness"
+272,58,Male,Oily,"Wrinkles, Redness, Dryness"
+273,54,Female,Sensitive,Redness
+274,43,Female,Dry,Dark Spots
+275,21,Other,Dry,"Wrinkles, Dark Spots, Dryness"
+276,57,Male,Dry,"Wrinkles, Dark Spots, Uneven Texture"
+277,53,Female,Oily,"Dryness, Wrinkles, Uneven Texture"
+278,48,Other,Oily,Wrinkles
+279,47,Female,Oily,"Uneven Texture, Dryness"
+280,51,Female,Combination,"Dark Spots, Redness"
+281,36,Female,Oily,"Acne, Dryness"
+282,35,Male,Combination,Dryness
+283,47,Female,Sensitive,"Uneven Texture, Dryness, Acne"
+284,38,Other,Sensitive,"Redness, Wrinkles"
+285,20,Other,Combination,"Acne, Dryness"
+286,23,Female,Dry,Acne
+287,55,Other,Combination,"Acne, Uneven Texture"
+288,30,Male,Oily,"Redness, Dryness, Acne"
+289,62,Female,Oily,"Dryness, Wrinkles"
+290,20,Other,Combination,"Uneven Texture, Wrinkles"
+291,45,Other,Dry,"Dark Spots, Redness"
+292,39,Male,Dry,Wrinkles
+293,57,Female,Oily,"Redness, Acne, Dryness"
+294,57,Male,Combination,"Acne, Uneven Texture, Wrinkles"
+295,29,Female,Dry,"Dark Spots, Uneven Texture"
+296,40,Female,Sensitive,Dryness
+297,48,Other,Dry,Uneven Texture
+298,35,Other,Dry,"Redness, Acne, Dark Spots"
+299,24,Male,Dry,"Dryness, Redness, Wrinkles"
+300,25,Female,Dry,"Dark Spots, Wrinkles, Dryness"
+301,36,Other,Oily,"Acne, Redness, Dark Spots"
+302,46,Male,Oily,Dryness
+303,61,Other,Combination,"Dryness, Dark Spots, Uneven Texture"
+304,37,Other,Combination,"Acne, Wrinkles, Dark Spots"
+305,59,Male,Dry,"Wrinkles, Acne, Dark Spots"
+306,47,Other,Dry,Dryness
+307,64,Other,Oily,"Dark Spots, Dryness, Acne"
+308,39,Other,Dry,"Acne, Dryness"
+309,27,Male,Sensitive,"Redness, Uneven Texture"
+310,43,Female,Combination,"Dryness, Uneven Texture, Wrinkles"
+311,50,Male,Sensitive,"Wrinkles, Dryness"
+312,45,Male,Combination,Acne
+313,27,Male,Combination,Wrinkles
+314,46,Female,Oily,"Dryness, Redness"
+315,61,Other,Sensitive,"Acne, Uneven Texture"
+316,35,Other,Sensitive,"Acne, Redness"
+317,59,Male,Oily,"Dark Spots, Acne"
+318,18,Female,Oily,Redness
+319,40,Other,Combination,Acne
+320,34,Female,Combination,Redness
+321,60,Other,Dry,Wrinkles
+322,54,Male,Dry,"Dark Spots, Acne, Dryness"
+323,48,Other,Sensitive,Wrinkles
+324,42,Male,Combination,"Wrinkles, Uneven Texture"
+325,21,Female,Dry,Dryness
+326,26,Female,Combination,"Wrinkles, Dryness, Acne"
+327,45,Male,Oily,"Dryness, Wrinkles, Redness"
+328,47,Male,Oily,"Redness, Acne"
+329,64,Male,Oily,Redness
+330,41,Other,Dry,Uneven Texture
+331,50,Female,Oily,"Dryness, Redness"
+332,37,Other,Combination,"Wrinkles, Uneven Texture, Dark Spots"
+333,26,Other,Dry,"Dryness, Acne, Wrinkles"
+334,25,Female,Combination,Dryness
+335,41,Female,Dry,"Dryness, Wrinkles"
+336,31,Female,Dry,"Dryness, Uneven Texture, Acne"
+337,35,Female,Combination,"Dark Spots, Redness, Acne"
+338,18,Other,Sensitive,Dark Spots
+339,29,Male,Combination,"Uneven Texture, Acne"
+340,46,Other,Oily,Uneven Texture
+341,54,Female,Oily,"Uneven Texture, Dryness"
+342,43,Female,Oily,"Dryness, Redness, Uneven Texture"
+343,50,Male,Dry,"Dryness, Uneven Texture"
+344,60,Male,Combination,"Acne, Dark Spots, Redness"
+345,32,Male,Combination,"Uneven Texture, Redness"
+346,40,Male,Dry,"Wrinkles, Redness"
+347,46,Female,Combination,"Uneven Texture, Acne"
+348,38,Female,Sensitive,Uneven Texture
+349,36,Female,Combination,"Uneven Texture, Wrinkles"
+350,22,Female,Dry,Acne
+351,40,Other,Combination,Acne
+352,53,Female,Sensitive,"Acne, Uneven Texture"
+353,37,Female,Dry,Wrinkles
+354,25,Male,Dry,Acne
+355,26,Other,Dry,"Dark Spots, Redness"
+356,31,Other,Combination,"Dark Spots, Acne, Dryness"
+357,23,Female,Dry,"Uneven Texture, Redness"
+358,18,Female,Dry,"Uneven Texture, Redness"
+359,26,Female,Dry,"Dark Spots, Dryness"
+360,33,Female,Combination,"Dryness, Acne"
+361,33,Other,Dry,Acne
+362,29,Other,Oily,"Uneven Texture, Wrinkles, Acne"
+363,22,Female,Dry,"Acne, Uneven Texture"
+364,57,Male,Oily,"Uneven Texture, Dryness"
+365,46,Female,Oily,"Dryness, Dark Spots, Redness"
+366,63,Other,Sensitive,Wrinkles
+367,44,Other,Oily,"Wrinkles, Acne, Uneven Texture"
+368,28,Other,Sensitive,"Uneven Texture, Wrinkles, Dryness"
+369,64,Other,Sensitive,"Acne, Redness"
+370,45,Male,Sensitive,Dryness
+371,53,Other,Oily,"Acne, Redness"
+372,59,Female,Combination,Redness
+373,36,Female,Oily,"Redness, Acne"
+374,52,Female,Sensitive,"Uneven Texture, Dryness, Redness"
+375,48,Female,Dry,Redness
+376,61,Female,Dry,"Redness, Wrinkles"
+377,36,Female,Oily,Dryness
+378,63,Female,Sensitive,"Acne, Dark Spots, Dryness"
+379,41,Male,Oily,"Wrinkles, Dark Spots"
+380,19,Male,Dry,"Acne, Wrinkles, Redness"
+381,24,Male,Oily,"Redness, Uneven Texture"
+382,60,Female,Oily,"Redness, Dark Spots"
+383,48,Female,Oily,"Acne, Wrinkles, Redness"
+384,34,Female,Combination,"Wrinkles, Acne"
+385,44,Female,Combination,"Dark Spots, Acne, Redness"
+386,53,Female,Sensitive,Uneven Texture
+387,60,Female,Sensitive,Wrinkles
+388,27,Female,Dry,"Dryness, Dark Spots, Redness"
+389,62,Female,Dry,Dryness
+390,31,Female,Sensitive,Uneven Texture
+391,24,Other,Combination,"Dark Spots, Dryness, Uneven Texture"
+392,56,Female,Sensitive,"Dark Spots, Acne, Dryness"
+393,57,Female,Oily,"Wrinkles, Dark Spots"
+394,26,Male,Dry,"Dryness, Wrinkles"
+395,31,Male,Sensitive,"Dryness, Redness"
+396,25,Female,Dry,"Dryness, Redness, Dark Spots"
+397,34,Female,Dry,"Redness, Acne"
+398,40,Male,Sensitive,"Dryness, Wrinkles"
+399,33,Female,Oily,"Acne, Dryness, Uneven Texture"
+400,43,Female,Dry,"Dark Spots, Wrinkles, Acne"
+401,26,Male,Combination,Wrinkles
+402,53,Male,Oily,"Redness, Acne"
+403,24,Male,Oily,"Redness, Wrinkles, Acne"
+404,35,Other,Sensitive,Acne
+405,25,Other,Sensitive,Redness
+406,38,Male,Dry,Dryness
+407,43,Female,Sensitive,Dryness
+408,20,Male,Sensitive,Redness
+409,34,Female,Oily,"Dark Spots, Uneven Texture, Redness"
+410,63,Other,Sensitive,"Wrinkles, Redness, Acne"
+411,41,Female,Oily,"Acne, Dark Spots, Uneven Texture"
+412,42,Other,Dry,"Uneven Texture, Wrinkles, Dryness"
+413,22,Male,Combination,Dryness
+414,54,Other,Oily,"Acne, Dryness, Uneven Texture"
+415,62,Other,Sensitive,"Wrinkles, Dryness"
+416,41,Other,Combination,Dryness
+417,48,Female,Sensitive,Redness
+418,43,Other,Combination,Dryness
+419,38,Male,Combination,"Dryness, Acne"
+420,51,Female,Oily,"Dryness, Uneven Texture, Wrinkles"
+421,55,Female,Dry,"Dryness, Uneven Texture"
+422,41,Male,Dry,"Dark Spots, Uneven Texture"
+423,45,Other,Sensitive,"Wrinkles, Redness, Acne"
+424,47,Male,Combination,"Uneven Texture, Acne, Redness"
+425,51,Male,Combination,Dark Spots
+426,40,Other,Dry,"Dryness, Wrinkles"
+427,25,Female,Sensitive,Wrinkles
+428,59,Female,Oily,"Uneven Texture, Redness"
+429,27,Male,Combination,Redness
+430,18,Other,Sensitive,Uneven Texture
+431,37,Other,Sensitive,"Redness, Wrinkles, Dryness"
+432,54,Male,Dry,"Redness, Dark Spots"
+433,35,Other,Dry,Acne
+434,38,Male,Dry,Dryness
+435,21,Other,Dry,"Uneven Texture, Acne, Dryness"
+436,60,Other,Combination,"Dark Spots, Dryness, Wrinkles"
+437,19,Male,Combination,"Dark Spots, Dryness, Redness"
+438,38,Female,Combination,"Acne, Wrinkles"
+439,54,Male,Oily,Dryness
+440,22,Female,Dry,"Uneven Texture, Acne"
+441,34,Male,Sensitive,Acne
+442,28,Female,Sensitive,"Wrinkles, Acne, Uneven Texture"
+443,63,Other,Sensitive,"Dryness, Redness"
+444,58,Other,Oily,Redness
+445,48,Other,Sensitive,Wrinkles
+446,45,Female,Combination,"Acne, Uneven Texture"
+447,61,Male,Oily,"Redness, Dark Spots, Wrinkles"
+448,49,Female,Combination,Redness
+449,38,Female,Combination,Dryness
+450,24,Female,Combination,Redness
+451,27,Female,Oily,Wrinkles
+452,45,Female,Sensitive,Redness
+453,53,Female,Sensitive,"Dryness, Acne"
+454,37,Male,Sensitive,"Uneven Texture, Wrinkles, Redness"
+455,30,Male,Oily,"Dryness, Wrinkles, Acne"
+456,36,Other,Combination,"Dryness, Acne"
+457,28,Female,Combination,"Redness, Wrinkles"
+458,52,Other,Oily,"Redness, Uneven Texture"
+459,51,Male,Dry,"Acne, Dark Spots"
+460,61,Female,Dry,"Acne, Redness"
+461,21,Other,Sensitive,Dark Spots
+462,30,Other,Oily,"Acne, Redness, Wrinkles"
+463,54,Female,Oily,"Wrinkles, Dark Spots, Acne"
+464,19,Other,Dry,Uneven Texture
+465,18,Other,Dry,"Wrinkles, Redness"
+466,57,Other,Sensitive,"Wrinkles, Dark Spots"
+467,42,Other,Combination,"Wrinkles, Uneven Texture, Dryness"
+468,54,Female,Dry,"Redness, Acne"
+469,53,Male,Combination,"Uneven Texture, Dark Spots"
+470,23,Male,Oily,"Acne, Dark Spots, Uneven Texture"
+471,24,Male,Combination,Redness
+472,21,Other,Combination,"Acne, Dryness"
+473,52,Other,Sensitive,Acne
+474,58,Other,Sensitive,"Wrinkles, Dark Spots"
+475,51,Male,Sensitive,"Uneven Texture, Dark Spots, Acne"
+476,46,Male,Oily,"Dark Spots, Acne, Uneven Texture"
+477,22,Female,Combination,Uneven Texture
+478,44,Male,Dry,"Redness, Acne"
+479,50,Female,Sensitive,"Redness, Wrinkles"
+480,63,Female,Combination,"Dryness, Uneven Texture, Acne"
+481,27,Female,Combination,Redness
+482,23,Male,Dry,"Dryness, Uneven Texture, Acne"
+483,51,Male,Oily,"Acne, Wrinkles"
+484,25,Male,Sensitive,Dark Spots
+485,48,Other,Sensitive,Redness
+486,26,Male,Sensitive,"Dark Spots, Dryness"
+487,38,Female,Sensitive,"Acne, Wrinkles, Dark Spots"
+488,25,Male,Dry,Wrinkles
+489,21,Female,Dry,Redness
+490,39,Female,Oily,Wrinkles
+491,45,Other,Sensitive,"Wrinkles, Uneven Texture, Redness"
+492,62,Other,Dry,"Wrinkles, Redness, Dark Spots"
+493,21,Other,Oily,"Dryness, Wrinkles, Acne"
+494,56,Female,Dry,"Redness, Dryness"
+495,38,Male,Sensitive,"Redness, Dryness, Acne"
+496,25,Male,Oily,"Acne, Uneven Texture, Redness"
+497,37,Other,Dry,"Dryness, Uneven Texture, Dark Spots"
+498,49,Female,Combination,"Dryness, Dark Spots, Acne"
+499,18,Male,Dry,"Wrinkles, Acne, Redness"
+500,23,Other,Oily,"Dryness, Wrinkles, Uneven Texture"
+501,45,Other,Dry,"Uneven Texture, Redness, Dark Spots"
+502,61,Male,Dry,"Uneven Texture, Dark Spots"
+503,48,Female,Combination,"Uneven Texture, Dark Spots, Wrinkles"
+504,27,Male,Sensitive,"Wrinkles, Redness, Dryness"
+505,37,Female,Sensitive,"Dryness, Wrinkles"
+506,25,Female,Combination,"Dark Spots, Uneven Texture, Dryness"
+507,39,Female,Sensitive,"Redness, Dark Spots, Wrinkles"
+508,55,Male,Sensitive,Dark Spots
+509,46,Other,Dry,"Wrinkles, Redness, Dryness"
+510,26,Female,Combination,"Dark Spots, Dryness"
+511,61,Other,Oily,"Wrinkles, Dark Spots, Dryness"
+512,64,Other,Oily,Wrinkles
+513,18,Other,Oily,"Acne, Wrinkles"
+514,58,Male,Dry,"Dark Spots, Redness, Uneven Texture"
+515,56,Male,Oily,Redness
+516,43,Male,Combination,Dryness
+517,28,Female,Combination,"Acne, Redness"
+518,52,Female,Oily,"Acne, Wrinkles, Uneven Texture"
+519,41,Other,Combination,"Uneven Texture, Wrinkles"
+520,50,Female,Dry,"Wrinkles, Uneven Texture"
+521,37,Female,Dry,"Redness, Uneven Texture, Dryness"
+522,44,Other,Dry,Acne
+523,32,Female,Oily,"Uneven Texture, Wrinkles, Acne"
+524,50,Female,Combination,"Uneven Texture, Redness"
+525,24,Male,Oily,"Wrinkles, Dark Spots"
+526,51,Other,Combination,"Dryness, Redness"
+527,62,Female,Combination,"Acne, Dryness, Wrinkles"
+528,63,Male,Combination,"Uneven Texture, Dryness, Redness"
+529,59,Female,Dry,"Dryness, Wrinkles, Acne"
+530,22,Other,Oily,Uneven Texture
+531,47,Female,Combination,"Uneven Texture, Acne, Dryness"
+532,45,Female,Combination,Uneven Texture
+533,35,Female,Oily,Acne
+534,53,Other,Oily,Acne
+535,20,Female,Sensitive,"Acne, Dark Spots"
+536,38,Other,Dry,Uneven Texture
+537,63,Female,Dry,Wrinkles
+538,33,Female,Oily,Redness
+539,54,Female,Dry,"Uneven Texture, Dark Spots, Dryness"
+540,59,Female,Oily,"Dryness, Redness, Wrinkles"
+541,22,Other,Dry,"Wrinkles, Redness, Uneven Texture"
+542,31,Male,Sensitive,"Dark Spots, Uneven Texture"
+543,48,Male,Sensitive,"Acne, Uneven Texture, Redness"
+544,63,Male,Combination,Wrinkles
+545,41,Other,Dry,Dark Spots
+546,52,Male,Combination,Dark Spots
+547,53,Other,Oily,Dark Spots
+548,27,Male,Combination,"Dark Spots, Dryness"
+549,44,Female,Oily,Dark Spots
+550,44,Female,Sensitive,"Redness, Dryness"
+551,40,Other,Sensitive,"Acne, Wrinkles, Redness"
+552,30,Other,Sensitive,"Dark Spots, Wrinkles, Acne"
+553,33,Male,Dry,Dryness
+554,52,Other,Oily,"Acne, Redness, Dark Spots"
+555,44,Other,Combination,"Uneven Texture, Dryness"
+556,56,Female,Combination,"Uneven Texture, Redness, Dryness"
+557,64,Other,Combination,Redness
+558,34,Male,Sensitive,"Dark Spots, Redness"
+559,58,Male,Dry,"Acne, Dryness, Uneven Texture"
+560,18,Female,Sensitive,"Wrinkles, Redness, Acne"
+561,28,Other,Oily,Redness
+562,29,Female,Oily,"Wrinkles, Dark Spots"
+563,31,Female,Sensitive,"Dryness, Acne"
+564,25,Other,Dry,"Uneven Texture, Dryness, Dark Spots"
+565,48,Other,Dry,Uneven Texture
+566,24,Female,Dry,"Uneven Texture, Dark Spots"
+567,63,Other,Sensitive,Acne
+568,48,Other,Sensitive,"Redness, Wrinkles, Dryness"
+569,33,Female,Combination,"Redness, Wrinkles"
+570,59,Other,Sensitive,"Wrinkles, Dark Spots"
+571,56,Female,Combination,Wrinkles
+572,61,Female,Dry,"Redness, Dark Spots, Dryness"
+573,36,Male,Combination,"Uneven Texture, Wrinkles, Dark Spots"
+574,25,Male,Dry,"Redness, Wrinkles"
+575,46,Other,Oily,"Dryness, Wrinkles"
+576,19,Other,Dry,"Dark Spots, Redness, Wrinkles"
+577,59,Other,Oily,"Dryness, Wrinkles, Dark Spots"
+578,20,Female,Combination,"Wrinkles, Dark Spots, Dryness"
+579,46,Female,Oily,Wrinkles
+580,32,Male,Dry,"Dryness, Acne, Dark Spots"
+581,55,Other,Combination,"Dryness, Uneven Texture, Dark Spots"
+582,45,Other,Sensitive,Acne
+583,54,Male,Combination,Dark Spots
+584,49,Other,Sensitive,"Redness, Dryness"
+585,47,Female,Combination,Uneven Texture
+586,64,Male,Oily,"Acne, Redness, Uneven Texture"
+587,47,Other,Combination,"Redness, Acne, Wrinkles"
+588,51,Male,Oily,Uneven Texture
+589,30,Female,Oily,"Dryness, Wrinkles, Redness"
+590,50,Female,Combination,Wrinkles
+591,59,Other,Dry,Wrinkles
+592,34,Male,Combination,"Dark Spots, Wrinkles"
+593,20,Other,Combination,Acne
+594,26,Male,Sensitive,Wrinkles
+595,28,Other,Oily,"Redness, Dryness"
+596,44,Other,Dry,"Dark Spots, Acne, Uneven Texture"
+597,45,Other,Dry,Wrinkles
+598,19,Male,Oily,"Wrinkles, Uneven Texture"
+599,18,Female,Oily,"Dark Spots, Wrinkles, Redness"
+600,23,Female,Combination,"Dryness, Wrinkles, Dark Spots"
+601,42,Other,Dry,Dark Spots
+602,52,Female,Combination,"Redness, Uneven Texture"
+603,33,Female,Dry,"Redness, Dryness"
+604,21,Male,Dry,"Acne, Redness"
+605,64,Other,Oily,"Wrinkles, Dryness, Uneven Texture"
+606,55,Female,Combination,"Redness, Wrinkles, Uneven Texture"
+607,61,Other,Oily,"Dryness, Dark Spots"
+608,37,Female,Oily,"Dryness, Uneven Texture"
+609,42,Other,Dry,"Uneven Texture, Redness, Wrinkles"
+610,24,Other,Oily,"Redness, Dryness"
+611,38,Other,Sensitive,Dryness
+612,24,Male,Sensitive,Acne
+613,46,Other,Sensitive,Redness
+614,24,Other,Sensitive,"Uneven Texture, Wrinkles, Acne"
+615,20,Male,Dry,Acne
+616,46,Other,Sensitive,"Acne, Redness"
+617,46,Male,Dry,Dryness
+618,56,Male,Dry,Redness
+619,55,Male,Dry,"Redness, Uneven Texture, Dryness"
+620,23,Other,Sensitive,"Dark Spots, Dryness, Acne"
+621,63,Female,Combination,Uneven Texture
+622,27,Other,Oily,Dryness
+623,54,Male,Dry,Wrinkles
+624,31,Male,Sensitive,"Acne, Redness"
+625,39,Female,Combination,"Dark Spots, Uneven Texture"
+626,49,Other,Oily,"Acne, Dryness, Dark Spots"
+627,35,Other,Oily,Wrinkles
+628,53,Female,Dry,Dryness
+629,63,Female,Dry,"Uneven Texture, Dark Spots, Wrinkles"
+630,26,Male,Combination,"Uneven Texture, Acne"
+631,43,Female,Dry,Dark Spots
+632,39,Other,Sensitive,"Uneven Texture, Dryness, Redness"
+633,63,Male,Dry,"Acne, Dark Spots"
+634,55,Other,Dry,"Wrinkles, Redness, Dryness"
+635,40,Female,Dry,"Wrinkles, Redness, Dryness"
+636,34,Female,Dry,Wrinkles
+637,43,Male,Sensitive,"Dryness, Wrinkles, Acne"
+638,64,Female,Sensitive,"Acne, Dark Spots, Uneven Texture"
+639,55,Male,Sensitive,Redness
+640,19,Male,Oily,"Uneven Texture, Redness, Acne"
+641,23,Female,Combination,"Redness, Dark Spots, Dryness"
+642,24,Male,Dry,"Acne, Redness, Wrinkles"
+643,30,Female,Dry,Wrinkles
+644,44,Male,Dry,"Wrinkles, Redness, Uneven Texture"
+645,28,Male,Oily,"Acne, Dark Spots"
+646,32,Other,Sensitive,"Dark Spots, Redness, Dryness"
+647,26,Male,Oily,Dryness
+648,25,Male,Combination,"Dark Spots, Dryness"
+649,63,Female,Oily,"Uneven Texture, Wrinkles"
+650,23,Male,Oily,"Uneven Texture, Wrinkles, Redness"
+651,60,Other,Dry,"Dark Spots, Acne"
+652,21,Female,Sensitive,"Redness, Uneven Texture, Wrinkles"
+653,28,Other,Combination,"Redness, Uneven Texture, Dryness"
+654,45,Male,Combination,Dryness
+655,43,Other,Combination,Uneven Texture
+656,21,Female,Combination,Dark Spots
+657,32,Male,Sensitive,Dryness
+658,36,Other,Sensitive,Uneven Texture
+659,23,Female,Sensitive,"Redness, Uneven Texture"
+660,22,Other,Dry,Acne
+661,35,Female,Oily,"Uneven Texture, Dark Spots"
+662,23,Male,Sensitive,"Dark Spots, Redness"
+663,48,Female,Dry,"Dryness, Dark Spots, Wrinkles"
+664,42,Other,Oily,Dark Spots
+665,21,Female,Oily,"Acne, Dryness, Dark Spots"
+666,23,Female,Dry,"Dryness, Wrinkles"
+667,58,Other,Oily,Dark Spots
+668,54,Other,Sensitive,"Wrinkles, Dark Spots"
+669,42,Female,Sensitive,"Dark Spots, Redness"
+670,51,Male,Oily,"Dryness, Wrinkles, Acne"
+671,36,Male,Sensitive,"Dryness, Wrinkles, Uneven Texture"
+672,51,Other,Oily,"Acne, Dark Spots"
+673,32,Other,Dry,"Dark Spots, Redness"
+674,25,Male,Combination,Wrinkles
+675,61,Male,Oily,"Dark Spots, Dryness"
+676,64,Male,Dry,"Uneven Texture, Redness"
+677,51,Female,Combination,"Wrinkles, Dryness, Redness"
+678,35,Male,Oily,Acne
+679,47,Female,Dry,"Redness, Acne"
+680,30,Other,Combination,Acne
+681,64,Other,Combination,"Acne, Wrinkles, Uneven Texture"
+682,50,Other,Dry,"Wrinkles, Uneven Texture"
+683,52,Female,Combination,"Wrinkles, Dryness, Acne"
+684,41,Other,Sensitive,Acne
+685,43,Male,Combination,Uneven Texture
+686,64,Female,Dry,"Uneven Texture, Dryness"
+687,61,Male,Sensitive,"Redness, Uneven Texture, Dark Spots"
+688,59,Male,Sensitive,"Acne, Redness, Dryness"
+689,64,Other,Dry,"Dark Spots, Redness"
+690,18,Female,Sensitive,"Uneven Texture, Dryness, Dark Spots"
+691,30,Female,Combination,Wrinkles
+692,27,Male,Sensitive,"Uneven Texture, Acne"
+693,36,Female,Sensitive,"Uneven Texture, Dark Spots, Wrinkles"
+694,22,Male,Oily,"Uneven Texture, Redness"
+695,25,Male,Dry,"Uneven Texture, Redness"
+696,21,Female,Dry,Dryness
+697,30,Female,Sensitive,"Dark Spots, Acne"
+698,55,Male,Dry,Dryness
+699,63,Male,Oily,"Redness, Uneven Texture, Dryness"
+700,63,Other,Combination,Acne
+701,36,Female,Oily,"Dryness, Dark Spots, Acne"
+702,25,Male,Combination,"Dryness, Redness"
+703,44,Other,Combination,Acne
+704,64,Male,Combination,"Uneven Texture, Dryness"
+705,47,Female,Dry,"Dryness, Uneven Texture"
+706,21,Other,Oily,"Dryness, Dark Spots, Uneven Texture"
+707,28,Male,Sensitive,"Dryness, Uneven Texture, Dark Spots"
+708,38,Female,Combination,"Dryness, Redness"
+709,60,Other,Dry,"Acne, Dryness"
+710,19,Female,Sensitive,"Acne, Wrinkles"
+711,38,Female,Dry,"Acne, Redness"
+712,34,Female,Dry,Dryness
+713,60,Male,Oily,Redness
+714,46,Male,Dry,"Wrinkles, Acne, Dryness"
+715,44,Other,Sensitive,Dark Spots
+716,41,Female,Sensitive,"Redness, Acne"
+717,20,Male,Sensitive,Acne
+718,56,Other,Oily,"Uneven Texture, Dark Spots"
+719,27,Other,Combination,"Dryness, Acne"
+720,20,Other,Combination,"Dryness, Acne"
+721,62,Male,Combination,Dryness
+722,59,Other,Combination,"Wrinkles, Dryness, Acne"
+723,43,Female,Oily,Acne
+724,54,Female,Oily,"Dark Spots, Acne"
+725,44,Male,Oily,"Acne, Wrinkles, Redness"
+726,22,Female,Oily,"Wrinkles, Acne, Uneven Texture"
+727,59,Male,Oily,"Acne, Redness, Uneven Texture"
+728,28,Male,Oily,"Dryness, Acne"
+729,30,Male,Sensitive,"Dryness, Redness, Wrinkles"
+730,58,Other,Oily,Dark Spots
+731,51,Other,Sensitive,"Wrinkles, Acne, Redness"
+732,55,Other,Dry,Uneven Texture
+733,57,Female,Combination,"Dark Spots, Redness, Dryness"
+734,50,Female,Dry,"Uneven Texture, Acne, Wrinkles"
+735,51,Other,Sensitive,"Uneven Texture, Dark Spots"
+736,44,Female,Combination,Acne
+737,53,Male,Dry,"Uneven Texture, Wrinkles"
+738,43,Other,Dry,Acne
+739,42,Female,Sensitive,"Wrinkles, Dark Spots, Redness"
+740,36,Male,Oily,Uneven Texture
+741,38,Female,Combination,Uneven Texture
+742,48,Male,Sensitive,Uneven Texture
+743,46,Female,Combination,Uneven Texture
+744,26,Male,Dry,"Dryness, Acne"
+745,36,Female,Sensitive,"Dark Spots, Acne, Uneven Texture"
+746,43,Male,Sensitive,Dryness
+747,42,Other,Combination,Dark Spots
+748,57,Male,Combination,"Acne, Dark Spots, Dryness"
+749,60,Male,Combination,Uneven Texture
+750,46,Other,Dry,"Dark Spots, Redness"
+751,42,Other,Oily,Dryness
+752,36,Male,Oily,"Dark Spots, Acne"
+753,21,Female,Oily,Redness
+754,62,Male,Combination,Dryness
+755,37,Male,Dry,Uneven Texture
+756,63,Other,Dry,"Redness, Dryness"
+757,18,Other,Combination,"Dark Spots, Acne"
+758,28,Male,Sensitive,"Wrinkles, Dryness"
+759,21,Male,Sensitive,"Acne, Wrinkles, Dryness"
+760,24,Female,Sensitive,Wrinkles
+761,45,Other,Sensitive,"Dryness, Wrinkles"
+762,53,Female,Oily,"Wrinkles, Redness, Acne"
+763,24,Female,Dry,Wrinkles
+764,37,Female,Dry,"Dark Spots, Redness"
+765,52,Other,Sensitive,"Redness, Dryness"
+766,56,Female,Sensitive,Dark Spots
+767,38,Other,Combination,"Dark Spots, Uneven Texture"
+768,61,Female,Oily,"Uneven Texture, Redness"
+769,18,Other,Dry,"Dark Spots, Dryness"
+770,54,Other,Oily,Dryness
+771,63,Other,Oily,"Uneven Texture, Acne"
+772,59,Male,Sensitive,"Dryness, Redness, Dark Spots"
+773,20,Other,Sensitive,"Dryness, Redness, Uneven Texture"
+774,51,Other,Dry,"Acne, Redness, Dark Spots"
+775,30,Male,Combination,"Acne, Wrinkles"
+776,33,Male,Dry,"Dryness, Wrinkles, Uneven Texture"
+777,51,Female,Sensitive,"Wrinkles, Dryness, Dark Spots"
+778,41,Female,Combination,"Redness, Wrinkles, Acne"
+779,30,Female,Combination,"Redness, Uneven Texture"
+780,23,Male,Combination,Redness
+781,56,Male,Dry,Dark Spots
+782,19,Male,Oily,Dryness
+783,28,Female,Oily,"Redness, Acne, Wrinkles"
+784,24,Other,Sensitive,"Wrinkles, Redness, Dark Spots"
+785,24,Male,Combination,"Wrinkles, Dryness"
+786,56,Female,Oily,"Acne, Uneven Texture"
+787,56,Other,Oily,"Uneven Texture, Dark Spots"
+788,29,Other,Combination,Acne
+789,39,Other,Sensitive,"Dryness, Wrinkles"
+790,20,Male,Sensitive,"Dryness, Uneven Texture"
+791,30,Other,Sensitive,"Wrinkles, Dryness"
+792,47,Male,Sensitive,"Wrinkles, Dark Spots, Acne"
+793,27,Male,Sensitive,"Dark Spots, Uneven Texture"
+794,26,Female,Combination,Wrinkles
+795,23,Female,Dry,"Dark Spots, Wrinkles, Dryness"
+796,61,Male,Oily,"Redness, Uneven Texture, Dryness"
+797,19,Other,Combination,Acne
+798,61,Other,Combination,Dark Spots
+799,33,Female,Oily,Dryness
+800,30,Female,Combination,"Dark Spots, Acne"
+801,30,Male,Combination,"Wrinkles, Uneven Texture, Redness"
+802,39,Female,Dry,Uneven Texture
+803,36,Other,Combination,"Acne, Uneven Texture, Dryness"
+804,43,Other,Oily,"Dryness, Uneven Texture"
+805,31,Other,Dry,"Wrinkles, Acne, Redness"
+806,48,Male,Oily,"Redness, Acne"
+807,46,Female,Oily,"Redness, Acne, Wrinkles"
+808,62,Other,Combination,"Wrinkles, Redness"
+809,59,Female,Combination,"Uneven Texture, Wrinkles"
+810,39,Other,Sensitive,"Wrinkles, Uneven Texture"
+811,24,Other,Oily,Uneven Texture
+812,54,Other,Combination,"Uneven Texture, Dryness, Acne"
+813,58,Female,Sensitive,"Dryness, Acne"
+814,44,Male,Combination,Dryness
+815,48,Male,Dry,Wrinkles
+816,23,Female,Sensitive,Dark Spots
+817,33,Male,Oily,"Wrinkles, Uneven Texture"
+818,55,Male,Combination,"Dryness, Dark Spots, Uneven Texture"
+819,55,Other,Combination,"Acne, Redness"
+820,49,Other,Dry,"Wrinkles, Redness"
+821,50,Other,Oily,"Dryness, Wrinkles"
+822,34,Male,Oily,"Redness, Uneven Texture"
+823,50,Other,Sensitive,"Dark Spots, Redness"
+824,28,Female,Dry,"Dryness, Wrinkles"
+825,30,Other,Oily,"Dryness, Wrinkles, Acne"
+826,47,Male,Oily,Acne
+827,18,Male,Combination,"Uneven Texture, Wrinkles"
+828,47,Male,Oily,Uneven Texture
+829,44,Male,Combination,"Uneven Texture, Redness"
+830,57,Other,Combination,"Wrinkles, Dryness"
+831,40,Other,Oily,"Uneven Texture, Wrinkles, Acne"
+832,37,Female,Oily,"Wrinkles, Uneven Texture"
+833,23,Male,Dry,"Dark Spots, Uneven Texture"
+834,54,Female,Combination,"Dryness, Uneven Texture, Dark Spots"
+835,37,Female,Combination,"Redness, Dark Spots"
+836,54,Female,Combination,"Dark Spots, Acne"
+837,23,Male,Sensitive,"Dryness, Uneven Texture"
+838,46,Other,Dry,Dryness
+839,30,Male,Dry,"Wrinkles, Acne, Dark Spots"
+840,44,Other,Dry,"Wrinkles, Dryness, Acne"
+841,37,Female,Dry,"Wrinkles, Acne"
+842,30,Male,Oily,"Uneven Texture, Acne, Redness"
+843,56,Other,Dry,Redness
+844,25,Male,Combination,"Acne, Uneven Texture"
+845,34,Female,Sensitive,Dark Spots
+846,47,Other,Dry,"Wrinkles, Redness, Dryness"
+847,18,Other,Combination,Wrinkles
+848,41,Female,Oily,"Wrinkles, Uneven Texture, Redness"
+849,33,Other,Combination,"Uneven Texture, Dark Spots"
+850,28,Male,Sensitive,"Dark Spots, Redness, Acne"
+851,21,Male,Sensitive,Acne
+852,21,Male,Combination,"Wrinkles, Dark Spots"
+853,34,Female,Oily,"Acne, Dryness"
+854,27,Other,Sensitive,"Wrinkles, Dryness"
+855,38,Other,Oily,"Dark Spots, Wrinkles"
+856,55,Male,Combination,"Acne, Redness"
+857,35,Other,Dry,Uneven Texture
+858,27,Other,Combination,"Uneven Texture, Dryness, Acne"
+859,62,Female,Combination,"Dark Spots, Acne"
+860,33,Female,Oily,"Acne, Wrinkles"
+861,56,Female,Combination,"Redness, Wrinkles"
+862,32,Female,Sensitive,Redness
+863,51,Female,Dry,"Acne, Dark Spots"
+864,22,Male,Dry,Dryness
+865,34,Other,Sensitive,"Uneven Texture, Wrinkles, Dryness"
+866,54,Female,Dry,"Redness, Dark Spots, Wrinkles"
+867,25,Male,Oily,Acne
+868,41,Male,Sensitive,"Uneven Texture, Wrinkles, Acne"
+869,45,Female,Combination,"Dark Spots, Redness"
+870,64,Female,Sensitive,"Uneven Texture, Acne, Dark Spots"
+871,25,Female,Sensitive,Uneven Texture
+872,40,Other,Sensitive,Redness
+873,52,Other,Sensitive,"Dark Spots, Wrinkles, Uneven Texture"
+874,48,Female,Dry,Uneven Texture
+875,34,Other,Combination,Acne
+876,45,Female,Sensitive,Dark Spots
+877,29,Female,Dry,"Acne, Uneven Texture"
+878,41,Male,Sensitive,"Acne, Uneven Texture"
+879,32,Other,Dry,"Acne, Wrinkles, Dark Spots"
+880,57,Other,Sensitive,"Uneven Texture, Redness, Acne"
+881,48,Male,Dry,"Redness, Uneven Texture, Acne"
+882,44,Female,Combination,Redness
+883,52,Male,Sensitive,Acne
+884,35,Other,Oily,"Wrinkles, Uneven Texture, Dryness"
+885,53,Other,Dry,"Dark Spots, Redness, Acne"
+886,25,Male,Combination,"Acne, Redness, Dark Spots"
+887,63,Other,Combination,"Wrinkles, Redness, Dark Spots"
+888,55,Male,Sensitive,"Acne, Dark Spots"
+889,22,Female,Combination,Dark Spots
+890,31,Other,Dry,"Acne, Uneven Texture"
+891,55,Other,Sensitive,Dryness
+892,37,Male,Sensitive,"Dryness, Dark Spots, Acne"
+893,61,Male,Sensitive,"Acne, Uneven Texture, Redness"
+894,26,Male,Dry,"Dryness, Redness"
+895,50,Male,Dry,"Redness, Acne, Uneven Texture"
+896,35,Male,Sensitive,"Dark Spots, Wrinkles"
+897,23,Female,Oily,"Dark Spots, Dryness, Wrinkles"
+898,54,Other,Combination,"Wrinkles, Acne, Dryness"
+899,19,Female,Oily,Dark Spots
+900,47,Female,Dry,"Wrinkles, Uneven Texture, Acne"
+901,23,Male,Oily,"Dark Spots, Uneven Texture"
+902,34,Other,Combination,Wrinkles
+903,56,Other,Sensitive,"Acne, Dryness"
+904,58,Male,Sensitive,Dryness
+905,40,Male,Sensitive,"Wrinkles, Redness"
+906,48,Other,Sensitive,"Uneven Texture, Dark Spots, Acne"
+907,37,Other,Dry,Redness
+908,22,Female,Sensitive,Redness
+909,38,Other,Oily,"Acne, Wrinkles, Redness"
+910,60,Female,Oily,"Acne, Wrinkles"
+911,28,Other,Dry,"Dryness, Dark Spots, Acne"
+912,21,Female,Dry,Redness
+913,40,Male,Sensitive,"Redness, Dark Spots, Dryness"
+914,55,Male,Dry,"Dark Spots, Wrinkles, Uneven Texture"
+915,47,Other,Oily,"Dark Spots, Dryness, Uneven Texture"
+916,59,Female,Oily,"Uneven Texture, Acne"
+917,58,Female,Combination,Dark Spots
+918,35,Male,Dry,Wrinkles
+919,58,Other,Sensitive,Redness
+920,60,Female,Dry,"Dryness, Acne"
+921,48,Other,Oily,"Dryness, Acne, Dark Spots"
+922,47,Other,Dry,"Dark Spots, Acne, Redness"
+923,51,Other,Sensitive,"Redness, Dark Spots, Wrinkles"
+924,48,Male,Oily,"Uneven Texture, Dark Spots"
+925,64,Male,Sensitive,"Wrinkles, Redness"
+926,55,Other,Dry,Dryness
+927,42,Male,Combination,"Dark Spots, Uneven Texture"
+928,34,Male,Dry,"Uneven Texture, Dark Spots"
+929,53,Other,Dry,Dryness
+930,57,Female,Sensitive,"Redness, Dark Spots"
+931,47,Female,Dry,"Acne, Dryness"
+932,19,Other,Oily,"Redness, Wrinkles"
+933,41,Male,Oily,"Wrinkles, Dark Spots"
+934,26,Other,Oily,"Uneven Texture, Redness"
+935,18,Female,Oily,"Acne, Dryness, Redness"
+936,41,Other,Combination,Wrinkles
+937,55,Male,Oily,Redness
+938,44,Other,Dry,"Dark Spots, Dryness"
+939,43,Other,Dry,"Wrinkles, Redness"
+940,43,Other,Dry,"Wrinkles, Acne"
+941,24,Female,Dry,Redness
+942,42,Female,Dry,Uneven Texture
+943,33,Other,Oily,"Uneven Texture, Dryness, Redness"
+944,55,Female,Combination,"Acne, Wrinkles, Uneven Texture"
+945,59,Other,Sensitive,"Redness, Dark Spots"
+946,35,Male,Combination,"Uneven Texture, Acne"
+947,34,Female,Dry,Uneven Texture
+948,61,Male,Sensitive,"Dark Spots, Uneven Texture, Redness"
+949,64,Female,Oily,"Uneven Texture, Dark Spots"
+950,23,Other,Dry,"Uneven Texture, Dark Spots"
+951,37,Female,Sensitive,Acne
+952,40,Female,Combination,"Redness, Acne"
+953,63,Other,Oily,"Acne, Dryness"
+954,29,Male,Oily,Acne
+955,29,Other,Combination,Uneven Texture
+956,51,Female,Dry,"Acne, Wrinkles, Dryness"
+957,25,Female,Combination,Acne
+958,44,Female,Combination,"Dryness, Wrinkles, Redness"
+959,25,Other,Sensitive,Wrinkles
+960,50,Male,Dry,"Uneven Texture, Acne, Redness"
+961,54,Female,Oily,"Wrinkles, Uneven Texture, Dryness"
+962,36,Female,Combination,"Dark Spots, Redness, Uneven Texture"
+963,41,Other,Sensitive,"Redness, Acne, Wrinkles"
+964,39,Male,Dry,Acne
+965,20,Male,Oily,Redness
+966,26,Other,Oily,"Uneven Texture, Redness, Dryness"
+967,28,Female,Sensitive,"Acne, Redness"
+968,23,Other,Combination,"Redness, Wrinkles, Uneven Texture"
+969,56,Other,Combination,"Dark Spots, Dryness, Acne"
+970,56,Female,Dry,"Dark Spots, Redness"
+971,54,Other,Combination,"Acne, Dark Spots, Redness"
+972,19,Other,Combination,"Dryness, Acne"
+973,54,Other,Combination,"Uneven Texture, Acne"
+974,23,Other,Sensitive,"Uneven Texture, Acne"
+975,23,Male,Combination,"Acne, Redness, Wrinkles"
+976,56,Other,Oily,Acne
+977,53,Female,Sensitive,Redness
+978,42,Other,Oily,"Uneven Texture, Wrinkles"
+979,33,Female,Combination,"Wrinkles, Dryness"
+980,38,Other,Sensitive,"Dark Spots, Uneven Texture"
+981,27,Male,Combination,Dark Spots
+982,22,Other,Oily,Dryness
+983,42,Female,Combination,"Dark Spots, Redness"
+984,48,Other,Dry,"Wrinkles, Redness, Dryness"
+985,20,Female,Combination,"Acne, Uneven Texture"
+986,37,Other,Dry,"Acne, Dark Spots, Redness"
+987,21,Female,Combination,Dryness
+988,31,Other,Combination,Dark Spots
+989,29,Female,Oily,"Redness, Dark Spots, Uneven Texture"
+990,31,Female,Combination,Dark Spots
+991,54,Male,Sensitive,"Wrinkles, Dark Spots, Redness"
+992,35,Other,Combination,"Acne, Dryness"
+993,44,Male,Dry,"Wrinkles, Acne"
+994,24,Other,Oily,"Dryness, Uneven Texture"
+995,52,Other,Oily,"Acne, Uneven Texture"
+996,39,Female,Combination,Uneven Texture
+997,38,Male,Sensitive,Uneven Texture
+998,60,Other,Sensitive,"Acne, Dark Spots, Uneven Texture"
+999,35,Male,Oily,Dark Spots
+1000,55,Female,Combination,Dark Spots

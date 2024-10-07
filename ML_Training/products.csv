@@ -1,0 +1,201 @@
+product_id,product_name,brand,category,ingredients,benefits,suitable_skin_types
+1,Radiant Revive 446,BrandC,Serum,"Hyaluronic Acid, Niacinamide",Anti-Aging,Sensitive
+2,Clear Glow 636,BrandB,Mask,"Hyaluronic Acid, Niacinamide, Salicylic Acid, Glycolic Acid","Exfoliation, Brightening, Oil Control","Sensitive, Combination"
+3,Radiant Bright 284,BrandD,Serum,"Hyaluronic Acid, Vitamin C","Brightening, Soothing, Exfoliation","Sensitive, Oily"
+4,Ultra Glow 239,BrandE,Serum,"Salicylic Acid, Hyaluronic Acid, Niacinamide, Vitamin C",Exfoliation,"Oily, Sensitive"
+5,Hydra Revive 291,BrandD,Sunscreen,"Vitamin C, Glycolic Acid","Exfoliation, Hydration","Oily, Dry"
+6,Clear Smooth 188,BrandE,Mask,"Vitamin C, Glycolic Acid, Hyaluronic Acid, Salicylic Acid",Brightening,"Dry, Oily, Combination"
+7,Pure Fresh 942,BrandE,Cleanser,"Niacinamide, Glycolic Acid, Hyaluronic Acid","Oil Control, Brightening, Exfoliation","Combination, Dry, Oily, Sensitive"
+8,Radiant Smooth 199,BrandC,Moisturizer,"Salicylic Acid, Vitamin C, Retinol",Brightening,"Combination, Sensitive, Dry"
+9,Hydra Bright 311,BrandB,Moisturizer,"Retinol, Niacinamide, Glycolic Acid, Vitamin C","Soothing, Oil Control, Hydration","Dry, Oily, Sensitive"
+10,Radiant Revive 928,BrandA,Cleanser,"Vitamin C, Niacinamide, Salicylic Acid","Hydration, Exfoliation","Sensitive, Combination"
+11,Radiant Bright 714,BrandD,Sunscreen,"Hyaluronic Acid, Vitamin C, Salicylic Acid",Brightening,Sensitive
+12,Hydra Revive 988,BrandD,Moisturizer,"Salicylic Acid, Vitamin C, Hyaluronic Acid, Glycolic Acid","Anti-Aging, Brightening","Combination, Sensitive"
+13,Ultra Bright 812,BrandB,Serum,"Vitamin C, Hyaluronic Acid","Exfoliation, Anti-Aging","Oily, Sensitive"
+14,Pure Bright 236,BrandC,Mask,"Niacinamide, Glycolic Acid, Salicylic Acid, Hyaluronic Acid","Exfoliation, Anti-Aging","Sensitive, Combination, Oily"
+15,Ultra Revive 505,BrandD,Serum,"Salicylic Acid, Vitamin C, Retinol","Anti-Aging, Exfoliation","Sensitive, Oily"
+16,Hydra Bright 880,BrandD,Cleanser,"Glycolic Acid, Retinol, Salicylic Acid, Vitamin C","Soothing, Anti-Aging",Combination
+17,Clear Fresh 254,BrandB,Serum,"Salicylic Acid, Vitamin C",Exfoliation,"Oily, Sensitive"
+18,Hydra Smooth 688,BrandC,Serum,"Hyaluronic Acid, Vitamin C","Brightening, Hydration, Anti-Aging","Combination, Sensitive, Dry"
+19,Ultra Revive 670,BrandA,Cleanser,"Glycolic Acid, Retinol, Niacinamide","Soothing, Exfoliation","Oily, Dry"
+20,Radiant Glow 706,BrandC,Exfoliator,"Glycolic Acid, Salicylic Acid, Hyaluronic Acid",Oil Control,"Combination, Oily, Dry, Sensitive"
+21,Pure Revive 953,BrandE,Sunscreen,"Glycolic Acid, Hyaluronic Acid, Niacinamide, Vitamin C","Oil Control, Soothing, Brightening","Dry, Oily, Combination, Sensitive"
+22,Clear Fresh 521,BrandE,Mask,"Hyaluronic Acid, Retinol, Salicylic Acid, Niacinamide",Hydration,"Combination, Oily"
+23,Hydra Fresh 968,BrandD,Sunscreen,"Salicylic Acid, Hyaluronic Acid","Brightening, Anti-Aging, Oil Control",Combination
+24,Clear Smooth 621,BrandB,Sunscreen,"Salicylic Acid, Niacinamide, Hyaluronic Acid, Vitamin C","Hydration, Brightening, Anti-Aging",Oily
+25,Ultra Smooth 438,BrandA,Exfoliator,"Hyaluronic Acid, Salicylic Acid, Vitamin C","Hydration, Soothing, Anti-Aging","Dry, Sensitive, Oily, Combination"
+26,Hydra Fresh 140,BrandE,Cleanser,"Retinol, Niacinamide, Salicylic Acid","Oil Control, Soothing",Combination
+27,Hydra Smooth 204,BrandD,Sunscreen,"Glycolic Acid, Retinol","Anti-Aging, Oil Control","Dry, Combination, Oily, Sensitive"
+28,Clear Bright 368,BrandD,Moisturizer,"Glycolic Acid, Niacinamide","Anti-Aging, Hydration, Oil Control","Combination, Oily, Dry"
+29,Radiant Fresh 504,BrandB,Serum,"Vitamin C, Hyaluronic Acid, Glycolic Acid, Niacinamide","Soothing, Hydration",Oily
+30,Ultra Bright 738,BrandC,Sunscreen,"Glycolic Acid, Hyaluronic Acid, Retinol",Anti-Aging,"Oily, Dry, Sensitive"
+31,Ultra Smooth 769,BrandA,Exfoliator,"Glycolic Acid, Hyaluronic Acid, Niacinamide, Vitamin C","Hydration, Oil Control, Anti-Aging","Oily, Sensitive, Combination"
+32,Ultra Fresh 667,BrandB,Moisturizer,"Niacinamide, Vitamin C, Retinol",Hydration,"Oily, Sensitive, Combination, Dry"
+33,Radiant Glow 352,BrandB,Cleanser,"Retinol, Glycolic Acid","Brightening, Exfoliation","Oily, Combination"
+34,Radiant Fresh 817,BrandD,Mask,"Salicylic Acid, Hyaluronic Acid, Vitamin C, Glycolic Acid","Anti-Aging, Soothing, Exfoliation","Dry, Oily, Sensitive"
+35,Pure Revive 343,BrandC,Mask,"Salicylic Acid, Niacinamide, Retinol","Brightening, Anti-Aging","Combination, Oily, Sensitive"
+36,Clear Smooth 299,BrandA,Moisturizer,"Niacinamide, Salicylic Acid, Vitamin C",Anti-Aging,"Dry, Sensitive, Combination, Oily"
+37,Ultra Revive 587,BrandD,Mask,"Salicylic Acid, Hyaluronic Acid","Brightening, Soothing, Hydration","Sensitive, Oily, Combination, Dry"
+38,Ultra Bright 535,BrandC,Sunscreen,"Retinol, Hyaluronic Acid, Vitamin C, Salicylic Acid","Exfoliation, Soothing, Hydration",Oily
+39,Hydra Revive 672,BrandB,Moisturizer,"Vitamin C, Retinol, Salicylic Acid, Glycolic Acid","Anti-Aging, Oil Control",Combination
+40,Hydra Revive 298,BrandB,Moisturizer,"Glycolic Acid, Hyaluronic Acid","Brightening, Soothing",Sensitive
+41,Radiant Revive 889,BrandB,Cleanser,"Glycolic Acid, Hyaluronic Acid","Anti-Aging, Brightening, Hydration","Oily, Combination, Dry"
+42,Pure Fresh 365,BrandD,Cleanser,"Retinol, Glycolic Acid, Salicylic Acid",Soothing,Oily
+43,Pure Fresh 743,BrandE,Sunscreen,"Vitamin C, Salicylic Acid, Hyaluronic Acid","Soothing, Brightening",Dry
+44,Ultra Bright 895,BrandA,Sunscreen,"Vitamin C, Retinol, Salicylic Acid",Soothing,"Dry, Sensitive"
+45,Hydra Smooth 719,BrandE,Exfoliator,"Hyaluronic Acid, Salicylic Acid",Exfoliation,"Combination, Dry, Sensitive"
+46,Clear Revive 438,BrandC,Moisturizer,"Glycolic Acid, Retinol","Hydration, Soothing, Oil Control","Combination, Dry"
+47,Hydra Revive 357,BrandC,Mask,"Vitamin C, Niacinamide, Hyaluronic Acid","Hydration, Anti-Aging, Soothing","Sensitive, Oily, Combination, Dry"
+48,Hydra Bright 852,BrandB,Sunscreen,"Hyaluronic Acid, Vitamin C, Retinol, Salicylic Acid","Oil Control, Hydration","Combination, Sensitive, Oily, Dry"
+49,Hydra Bright 855,BrandE,Sunscreen,"Niacinamide, Glycolic Acid",Soothing,"Combination, Sensitive"
+50,Hydra Smooth 156,BrandE,Serum,"Glycolic Acid, Vitamin C, Retinol, Hyaluronic Acid",Oil Control,"Dry, Sensitive, Combination"
+51,Ultra Glow 538,BrandD,Exfoliator,"Hyaluronic Acid, Salicylic Acid, Glycolic Acid, Niacinamide","Oil Control, Brightening","Combination, Sensitive, Oily, Dry"
+52,Clear Fresh 780,BrandA,Sunscreen,"Vitamin C, Glycolic Acid, Salicylic Acid","Soothing, Oil Control, Hydration","Dry, Oily, Sensitive, Combination"
+53,Hydra Bright 337,BrandA,Cleanser,"Retinol, Glycolic Acid","Soothing, Hydration","Combination, Sensitive"
+54,Clear Glow 680,BrandB,Serum,"Retinol, Hyaluronic Acid, Vitamin C",Soothing,"Combination, Oily, Sensitive, Dry"
+55,Clear Bright 978,BrandB,Serum,"Glycolic Acid, Hyaluronic Acid, Niacinamide",Soothing,"Dry, Sensitive, Oily, Combination"
+56,Pure Bright 631,BrandD,Moisturizer,"Hyaluronic Acid, Niacinamide","Hydration, Anti-Aging","Dry, Oily, Sensitive"
+57,Radiant Revive 297,BrandD,Mask,"Hyaluronic Acid, Salicylic Acid, Vitamin C","Exfoliation, Brightening","Oily, Combination, Dry, Sensitive"
+58,Radiant Smooth 838,BrandD,Mask,"Vitamin C, Retinol, Hyaluronic Acid, Glycolic Acid","Oil Control, Anti-Aging","Combination, Dry, Oily, Sensitive"
+59,Clear Glow 363,BrandE,Moisturizer,"Salicylic Acid, Niacinamide, Vitamin C, Retinol",Oil Control,Sensitive
+60,Pure Bright 384,BrandB,Cleanser,"Retinol, Vitamin C, Niacinamide, Salicylic Acid",Soothing,Oily
+61,Hydra Bright 888,BrandA,Cleanser,"Retinol, Niacinamide, Salicylic Acid",Brightening,Dry
+62,Radiant Revive 148,BrandA,Cleanser,"Salicylic Acid, Retinol, Glycolic Acid",Oil Control,"Oily, Sensitive"
+63,Radiant Bright 439,BrandB,Mask,"Hyaluronic Acid, Niacinamide",Hydration,"Sensitive, Dry"
+64,Ultra Bright 367,BrandA,Exfoliator,"Hyaluronic Acid, Vitamin C","Brightening, Exfoliation, Oil Control","Combination, Sensitive"
+65,Hydra Fresh 289,BrandC,Cleanser,"Vitamin C, Retinol","Exfoliation, Brightening","Oily, Dry"
+66,Radiant Glow 939,BrandB,Cleanser,"Niacinamide, Hyaluronic Acid, Vitamin C","Soothing, Exfoliation, Brightening","Oily, Sensitive"
+67,Ultra Glow 339,BrandC,Cleanser,"Glycolic Acid, Hyaluronic Acid, Vitamin C, Salicylic Acid","Hydration, Soothing","Dry, Sensitive, Combination, Oily"
+68,Hydra Revive 220,BrandC,Serum,"Vitamin C, Hyaluronic Acid, Niacinamide","Brightening, Soothing","Oily, Sensitive, Dry"
+69,Clear Fresh 309,BrandA,Sunscreen,"Niacinamide, Hyaluronic Acid, Salicylic Acid",Soothing,"Oily, Dry"
+70,Pure Bright 159,BrandC,Moisturizer,"Niacinamide, Glycolic Acid, Salicylic Acid","Exfoliation, Hydration","Dry, Sensitive, Combination, Oily"
+71,Pure Revive 992,BrandA,Sunscreen,"Glycolic Acid, Hyaluronic Acid, Vitamin C, Salicylic Acid","Brightening, Oil Control","Combination, Dry"
+72,Radiant Revive 388,BrandB,Moisturizer,"Retinol, Salicylic Acid",Oil Control,Combination
+73,Radiant Glow 968,BrandA,Exfoliator,"Niacinamide, Hyaluronic Acid, Vitamin C, Glycolic Acid",Brightening,"Sensitive, Dry, Combination, Oily"
+74,Clear Bright 856,BrandB,Sunscreen,"Salicylic Acid, Retinol, Glycolic Acid, Niacinamide","Soothing, Brightening, Exfoliation",Oily
+75,Hydra Smooth 433,BrandB,Cleanser,"Vitamin C, Glycolic Acid, Hyaluronic Acid, Retinol","Anti-Aging, Exfoliation, Oil Control",Sensitive
+76,Radiant Glow 343,BrandA,Moisturizer,"Glycolic Acid, Niacinamide",Brightening,"Oily, Dry, Combination"
+77,Ultra Smooth 732,BrandA,Serum,"Retinol, Hyaluronic Acid","Soothing, Anti-Aging, Oil Control","Sensitive, Combination, Dry, Oily"
+78,Clear Glow 184,BrandD,Sunscreen,"Hyaluronic Acid, Salicylic Acid, Glycolic Acid, Vitamin C",Anti-Aging,Sensitive
+79,Hydra Bright 688,BrandE,Serum,"Retinol, Hyaluronic Acid, Niacinamide, Vitamin C",Oil Control,"Sensitive, Oily"
+80,Radiant Fresh 111,BrandE,Cleanser,"Retinol, Glycolic Acid, Niacinamide, Salicylic Acid","Anti-Aging, Brightening, Hydration","Oily, Dry"
+81,Radiant Bright 373,BrandD,Moisturizer,"Hyaluronic Acid, Vitamin C","Anti-Aging, Oil Control",Dry
+82,Pure Smooth 999,BrandB,Mask,"Vitamin C, Niacinamide","Soothing, Oil Control, Anti-Aging",Combination
+83,Radiant Fresh 164,BrandE,Serum,"Salicylic Acid, Retinol, Niacinamide",Brightening,"Combination, Dry, Sensitive, Oily"
+84,Radiant Smooth 107,BrandB,Sunscreen,"Salicylic Acid, Hyaluronic Acid, Vitamin C",Anti-Aging,"Dry, Combination, Sensitive, Oily"
+85,Radiant Smooth 218,BrandA,Moisturizer,"Vitamin C, Hyaluronic Acid, Salicylic Acid, Retinol",Oil Control,"Dry, Combination"
+86,Radiant Smooth 400,BrandB,Moisturizer,"Niacinamide, Retinol, Hyaluronic Acid, Glycolic Acid","Soothing, Exfoliation",Oily
+87,Clear Bright 842,BrandC,Moisturizer,"Niacinamide, Salicylic Acid, Vitamin C, Glycolic Acid",Oil Control,"Sensitive, Combination, Dry"
+88,Clear Bright 593,BrandD,Moisturizer,"Retinol, Salicylic Acid, Vitamin C, Niacinamide","Anti-Aging, Soothing, Hydration","Sensitive, Dry, Oily"
+89,Clear Bright 473,BrandD,Cleanser,"Glycolic Acid, Niacinamide","Soothing, Brightening","Combination, Sensitive, Dry, Oily"
+90,Clear Bright 761,BrandD,Exfoliator,"Retinol, Niacinamide","Soothing, Hydration","Oily, Combination, Dry"
+91,Pure Revive 535,BrandB,Mask,"Hyaluronic Acid, Vitamin C, Salicylic Acid, Niacinamide","Oil Control, Hydration, Anti-Aging",Oily
+92,Clear Smooth 447,BrandA,Sunscreen,"Glycolic Acid, Salicylic Acid, Hyaluronic Acid, Vitamin C","Exfoliation, Soothing, Anti-Aging","Sensitive, Dry, Oily"
+93,Clear Fresh 352,BrandB,Sunscreen,"Salicylic Acid, Glycolic Acid, Vitamin C, Niacinamide",Exfoliation,"Dry, Oily, Sensitive"
+94,Hydra Fresh 948,BrandE,Exfoliator,"Retinol, Salicylic Acid","Soothing, Brightening",Oily
+95,Clear Fresh 129,BrandA,Serum,"Retinol, Vitamin C","Anti-Aging, Soothing","Dry, Combination, Sensitive"
+96,Pure Revive 211,BrandC,Sunscreen,"Hyaluronic Acid, Niacinamide, Salicylic Acid","Anti-Aging, Exfoliation, Soothing","Combination, Sensitive, Oily"
+97,Hydra Glow 257,BrandA,Serum,"Glycolic Acid, Salicylic Acid","Exfoliation, Brightening, Anti-Aging","Oily, Combination, Dry"
+98,Ultra Fresh 656,BrandD,Cleanser,"Glycolic Acid, Retinol, Salicylic Acid",Hydration,"Sensitive, Combination, Dry"
+99,Hydra Bright 572,BrandB,Mask,"Glycolic Acid, Niacinamide, Vitamin C, Retinol","Anti-Aging, Brightening, Hydration",Combination
+100,Clear Bright 254,BrandE,Serum,"Hyaluronic Acid, Retinol",Anti-Aging,"Dry, Oily, Combination"
+101,Hydra Revive 802,BrandB,Sunscreen,"Hyaluronic Acid, Niacinamide","Brightening, Anti-Aging","Dry, Oily, Sensitive"
+102,Radiant Revive 692,BrandE,Cleanser,"Niacinamide, Glycolic Acid, Retinol, Salicylic Acid",Brightening,"Oily, Combination, Dry, Sensitive"
+103,Pure Smooth 142,BrandE,Moisturizer,"Glycolic Acid, Salicylic Acid, Vitamin C","Oil Control, Anti-Aging","Oily, Dry, Combination"
+104,Pure Bright 309,BrandD,Sunscreen,"Glycolic Acid, Niacinamide, Vitamin C, Salicylic Acid","Anti-Aging, Oil Control","Sensitive, Oily"
+105,Hydra Glow 607,BrandA,Moisturizer,"Salicylic Acid, Niacinamide",Soothing,Oily
+106,Radiant Fresh 641,BrandA,Moisturizer,"Salicylic Acid, Hyaluronic Acid, Retinol","Exfoliation, Oil Control","Oily, Sensitive, Combination, Dry"
+107,Pure Glow 206,BrandE,Mask,"Niacinamide, Hyaluronic Acid",Oil Control,"Sensitive, Combination, Oily"
+108,Clear Smooth 958,BrandE,Exfoliator,"Salicylic Acid, Vitamin C, Niacinamide, Hyaluronic Acid","Soothing, Anti-Aging, Oil Control","Dry, Oily, Combination"
+109,Pure Bright 585,BrandD,Cleanser,"Salicylic Acid, Niacinamide, Hyaluronic Acid, Glycolic Acid",Hydration,"Oily, Sensitive, Combination, Dry"
+110,Ultra Fresh 120,BrandE,Sunscreen,"Retinol, Glycolic Acid, Salicylic Acid","Soothing, Hydration","Sensitive, Dry, Combination"
+111,Pure Glow 773,BrandA,Cleanser,"Niacinamide, Retinol, Glycolic Acid, Hyaluronic Acid","Anti-Aging, Exfoliation, Hydration","Dry, Oily, Combination"
+112,Clear Revive 383,BrandA,Sunscreen,"Glycolic Acid, Salicylic Acid, Niacinamide",Brightening,Oily
+113,Ultra Glow 324,BrandC,Exfoliator,"Hyaluronic Acid, Niacinamide, Retinol, Salicylic Acid","Oil Control, Soothing, Anti-Aging","Sensitive, Oily, Combination, Dry"
+114,Ultra Smooth 953,BrandE,Moisturizer,"Glycolic Acid, Vitamin C","Anti-Aging, Brightening, Oil Control","Oily, Combination"
+115,Hydra Fresh 417,BrandC,Cleanser,"Salicylic Acid, Niacinamide","Brightening, Oil Control",Oily
+116,Hydra Revive 617,BrandB,Moisturizer,"Retinol, Salicylic Acid","Exfoliation, Anti-Aging",Combination
+117,Radiant Revive 281,BrandA,Sunscreen,"Niacinamide, Glycolic Acid, Salicylic Acid, Vitamin C","Oil Control, Anti-Aging, Brightening","Dry, Sensitive"
+118,Hydra Revive 611,BrandA,Sunscreen,"Glycolic Acid, Retinol, Hyaluronic Acid, Vitamin C","Oil Control, Brightening","Oily, Dry"
+119,Radiant Glow 670,BrandE,Sunscreen,"Niacinamide, Glycolic Acid, Salicylic Acid",Soothing,Sensitive
+120,Ultra Fresh 556,BrandC,Exfoliator,"Vitamin C, Hyaluronic Acid, Glycolic Acid","Soothing, Hydration",Oily
+121,Radiant Glow 252,BrandA,Cleanser,"Vitamin C, Hyaluronic Acid, Niacinamide",Oil Control,Combination
+122,Clear Revive 949,BrandE,Sunscreen,"Niacinamide, Glycolic Acid","Anti-Aging, Soothing, Brightening",Dry
+123,Clear Smooth 948,BrandC,Moisturizer,"Salicylic Acid, Retinol, Hyaluronic Acid",Brightening,"Combination, Oily"
+124,Pure Glow 839,BrandD,Serum,"Hyaluronic Acid, Glycolic Acid","Oil Control, Anti-Aging, Soothing","Combination, Dry"
+125,Radiant Revive 813,BrandA,Exfoliator,"Salicylic Acid, Vitamin C, Niacinamide",Brightening,"Combination, Oily, Dry"
+126,Clear Revive 932,BrandC,Serum,"Retinol, Hyaluronic Acid, Niacinamide","Oil Control, Soothing","Combination, Dry"
+127,Pure Bright 761,BrandD,Mask,"Retinol, Salicylic Acid, Glycolic Acid, Niacinamide",Soothing,"Sensitive, Dry"
+128,Pure Glow 952,BrandA,Cleanser,"Glycolic Acid, Salicylic Acid","Anti-Aging, Brightening, Hydration",Sensitive
+129,Clear Bright 578,BrandA,Serum,"Glycolic Acid, Niacinamide, Retinol, Salicylic Acid","Anti-Aging, Oil Control, Exfoliation",Sensitive
+130,Pure Fresh 355,BrandE,Moisturizer,"Hyaluronic Acid, Vitamin C, Glycolic Acid, Salicylic Acid","Anti-Aging, Brightening","Sensitive, Dry"
+131,Hydra Bright 261,BrandB,Cleanser,"Retinol, Glycolic Acid, Hyaluronic Acid","Brightening, Soothing, Oil Control","Oily, Sensitive, Dry"
+132,Clear Fresh 183,BrandD,Cleanser,"Retinol, Vitamin C, Salicylic Acid, Glycolic Acid","Hydration, Soothing, Oil Control","Combination, Sensitive"
+133,Hydra Smooth 924,BrandC,Moisturizer,"Salicylic Acid, Niacinamide, Hyaluronic Acid","Anti-Aging, Brightening, Exfoliation","Combination, Oily, Sensitive, Dry"
+134,Pure Fresh 333,BrandE,Cleanser,"Glycolic Acid, Salicylic Acid, Vitamin C, Retinol",Oil Control,"Oily, Combination, Dry, Sensitive"
+135,Pure Fresh 794,BrandC,Cleanser,"Salicylic Acid, Glycolic Acid",Brightening,"Combination, Dry, Sensitive, Oily"
+136,Clear Fresh 238,BrandD,Sunscreen,"Niacinamide, Salicylic Acid","Anti-Aging, Brightening","Combination, Sensitive"
+137,Clear Bright 794,BrandB,Mask,"Retinol, Glycolic Acid, Niacinamide","Oil Control, Exfoliation, Hydration","Oily, Combination, Dry"
+138,Pure Glow 522,BrandE,Exfoliator,"Hyaluronic Acid, Glycolic Acid","Brightening, Oil Control, Hydration",Combination
+139,Clear Glow 825,BrandC,Sunscreen,"Retinol, Glycolic Acid","Brightening, Oil Control, Exfoliation","Sensitive, Dry"
+140,Clear Bright 647,BrandB,Exfoliator,"Glycolic Acid, Vitamin C","Exfoliation, Hydration","Combination, Sensitive"
+141,Hydra Revive 449,BrandD,Exfoliator,"Hyaluronic Acid, Vitamin C, Retinol",Hydration,"Dry, Combination"
+142,Clear Smooth 230,BrandB,Moisturizer,"Vitamin C, Niacinamide, Salicylic Acid",Exfoliation,Dry
+143,Pure Bright 956,BrandC,Moisturizer,"Retinol, Glycolic Acid, Salicylic Acid","Exfoliation, Anti-Aging","Dry, Oily, Sensitive"
+144,Radiant Revive 976,BrandC,Serum,"Hyaluronic Acid, Salicylic Acid","Oil Control, Anti-Aging, Soothing",Sensitive
+145,Hydra Revive 864,BrandD,Moisturizer,"Salicylic Acid, Glycolic Acid",Exfoliation,Combination
+146,Clear Bright 417,BrandC,Exfoliator,"Vitamin C, Hyaluronic Acid, Glycolic Acid","Anti-Aging, Hydration, Soothing","Combination, Dry, Oily"
+147,Ultra Glow 257,BrandE,Exfoliator,"Salicylic Acid, Hyaluronic Acid, Niacinamide","Hydration, Brightening, Anti-Aging","Combination, Dry, Sensitive, Oily"
+148,Hydra Smooth 816,BrandC,Sunscreen,"Hyaluronic Acid, Glycolic Acid, Niacinamide",Brightening,"Oily, Dry"
+149,Pure Smooth 930,BrandE,Mask,"Glycolic Acid, Niacinamide","Exfoliation, Oil Control","Dry, Combination"
+150,Radiant Bright 936,BrandB,Cleanser,"Glycolic Acid, Retinol, Vitamin C","Brightening, Soothing, Anti-Aging","Dry, Combination, Oily"
+151,Radiant Fresh 422,BrandA,Moisturizer,"Niacinamide, Salicylic Acid","Brightening, Exfoliation",Sensitive
+152,Radiant Revive 250,BrandE,Sunscreen,"Niacinamide, Glycolic Acid",Anti-Aging,"Combination, Sensitive, Oily, Dry"
+153,Ultra Smooth 726,BrandD,Mask,"Salicylic Acid, Glycolic Acid","Exfoliation, Anti-Aging, Oil Control","Oily, Combination"
+154,Hydra Glow 700,BrandA,Moisturizer,"Hyaluronic Acid, Glycolic Acid, Niacinamide, Retinol",Oil Control,"Combination, Dry"
+155,Pure Bright 183,BrandC,Exfoliator,"Vitamin C, Retinol",Exfoliation,"Oily, Sensitive, Combination"
+156,Clear Smooth 827,BrandA,Moisturizer,"Vitamin C, Glycolic Acid","Oil Control, Anti-Aging","Dry, Combination, Oily, Sensitive"
+157,Ultra Bright 262,BrandD,Exfoliator,"Retinol, Niacinamide, Salicylic Acid, Hyaluronic Acid","Hydration, Soothing, Anti-Aging","Dry, Sensitive"
+158,Pure Glow 187,BrandE,Exfoliator,"Salicylic Acid, Vitamin C, Niacinamide","Hydration, Anti-Aging",Combination
+159,Pure Smooth 525,BrandE,Serum,"Glycolic Acid, Vitamin C, Hyaluronic Acid",Anti-Aging,"Oily, Combination"
+160,Ultra Fresh 356,BrandB,Cleanser,"Niacinamide, Salicylic Acid, Glycolic Acid, Vitamin C","Anti-Aging, Brightening","Sensitive, Combination, Dry, Oily"
+161,Hydra Glow 822,BrandB,Serum,"Salicylic Acid, Vitamin C, Glycolic Acid, Hyaluronic Acid","Anti-Aging, Soothing, Brightening","Dry, Sensitive"
+162,Ultra Fresh 160,BrandC,Cleanser,"Glycolic Acid, Hyaluronic Acid","Hydration, Soothing, Exfoliation",Dry
+163,Radiant Revive 412,BrandA,Sunscreen,"Salicylic Acid, Niacinamide","Exfoliation, Soothing, Hydration","Dry, Oily"
+164,Pure Bright 370,BrandC,Exfoliator,"Salicylic Acid, Niacinamide, Retinol, Glycolic Acid",Oil Control,Dry
+165,Radiant Fresh 110,BrandE,Cleanser,"Salicylic Acid, Hyaluronic Acid, Vitamin C","Anti-Aging, Soothing","Combination, Sensitive"
+166,Pure Revive 547,BrandD,Serum,"Salicylic Acid, Niacinamide, Retinol",Anti-Aging,"Dry, Oily, Sensitive, Combination"
+167,Ultra Revive 795,BrandA,Cleanser,"Retinol, Vitamin C, Salicylic Acid, Niacinamide",Brightening,"Oily, Sensitive, Dry, Combination"
+168,Clear Smooth 498,BrandE,Serum,"Niacinamide, Salicylic Acid, Glycolic Acid",Hydration,"Oily, Dry"
+169,Pure Smooth 642,BrandD,Sunscreen,"Retinol, Hyaluronic Acid","Soothing, Exfoliation","Sensitive, Combination, Dry, Oily"
+170,Pure Revive 212,BrandB,Serum,"Glycolic Acid, Niacinamide","Soothing, Exfoliation, Anti-Aging","Dry, Combination, Oily"
+171,Clear Bright 410,BrandD,Exfoliator,"Retinol, Salicylic Acid","Brightening, Oil Control, Hydration","Oily, Dry, Combination"
+172,Radiant Smooth 840,BrandE,Mask,"Salicylic Acid, Vitamin C, Hyaluronic Acid",Hydration,"Oily, Dry, Combination, Sensitive"
+173,Clear Smooth 825,BrandC,Serum,"Vitamin C, Glycolic Acid",Brightening,"Combination, Sensitive, Dry"
+174,Hydra Bright 698,BrandD,Moisturizer,"Hyaluronic Acid, Salicylic Acid, Vitamin C, Niacinamide","Oil Control, Brightening, Soothing","Oily, Sensitive, Combination"
+175,Clear Smooth 774,BrandA,Mask,"Glycolic Acid, Hyaluronic Acid, Vitamin C",Anti-Aging,"Dry, Sensitive"
+176,Ultra Glow 368,BrandD,Sunscreen,"Retinol, Vitamin C, Salicylic Acid",Hydration,"Sensitive, Dry"
+177,Ultra Revive 706,BrandC,Exfoliator,"Glycolic Acid, Retinol","Oil Control, Brightening","Combination, Dry, Oily"
+178,Clear Fresh 200,BrandC,Sunscreen,"Vitamin C, Retinol, Hyaluronic Acid","Hydration, Exfoliation, Oil Control","Sensitive, Oily"
+179,Pure Smooth 874,BrandC,Cleanser,"Hyaluronic Acid, Vitamin C","Brightening, Exfoliation","Combination, Oily, Sensitive"
+180,Pure Smooth 267,BrandA,Sunscreen,"Hyaluronic Acid, Retinol, Niacinamide",Hydration,"Sensitive, Oily, Dry, Combination"
+181,Pure Bright 557,BrandA,Mask,"Glycolic Acid, Retinol, Vitamin C","Anti-Aging, Soothing","Combination, Oily, Sensitive"
+182,Ultra Glow 352,BrandD,Sunscreen,"Niacinamide, Retinol","Hydration, Exfoliation, Oil Control","Sensitive, Combination"
+183,Clear Fresh 804,BrandC,Moisturizer,"Retinol, Glycolic Acid",Hydration,"Dry, Sensitive, Oily"
+184,Hydra Smooth 895,BrandA,Mask,"Vitamin C, Glycolic Acid","Oil Control, Exfoliation","Sensitive, Dry"
+185,Pure Glow 375,BrandD,Exfoliator,"Vitamin C, Glycolic Acid","Exfoliation, Anti-Aging, Brightening","Oily, Dry, Sensitive"
+186,Clear Bright 121,BrandB,Cleanser,"Hyaluronic Acid, Vitamin C","Oil Control, Brightening",Oily
+187,Ultra Smooth 579,BrandC,Mask,"Retinol, Vitamin C","Brightening, Anti-Aging","Combination, Sensitive, Dry, Oily"
+188,Hydra Fresh 782,BrandD,Serum,"Hyaluronic Acid, Niacinamide",Oil Control,"Combination, Dry, Oily"
+189,Clear Glow 104,BrandB,Cleanser,"Glycolic Acid, Vitamin C, Hyaluronic Acid, Salicylic Acid","Soothing, Anti-Aging, Exfoliation",Dry
+190,Clear Fresh 337,BrandE,Serum,"Hyaluronic Acid, Glycolic Acid",Oil Control,Oily
+191,Radiant Glow 413,BrandB,Exfoliator,"Glycolic Acid, Retinol, Salicylic Acid",Soothing,"Sensitive, Dry"
+192,Hydra Glow 642,BrandE,Exfoliator,"Niacinamide, Retinol, Salicylic Acid","Exfoliation, Soothing",Dry
+193,Pure Fresh 423,BrandE,Moisturizer,"Retinol, Vitamin C, Glycolic Acid, Niacinamide","Brightening, Oil Control","Sensitive, Combination, Dry, Oily"
+194,Radiant Glow 110,BrandE,Sunscreen,"Hyaluronic Acid, Vitamin C, Niacinamide, Salicylic Acid","Soothing, Exfoliation","Oily, Sensitive, Combination"
+195,Clear Fresh 379,BrandB,Mask,"Hyaluronic Acid, Niacinamide",Hydration,"Sensitive, Dry, Oily"
+196,Pure Revive 133,BrandA,Mask,"Glycolic Acid, Salicylic Acid",Anti-Aging,"Combination, Oily"
+197,Hydra Fresh 584,BrandE,Cleanser,"Salicylic Acid, Niacinamide, Retinol, Hyaluronic Acid","Exfoliation, Brightening","Dry, Oily"
+198,Clear Bright 616,BrandA,Sunscreen,"Retinol, Glycolic Acid","Oil Control, Anti-Aging, Hydration",Dry
+199,Pure Revive 474,BrandA,Moisturizer,"Niacinamide, Hyaluronic Acid",Soothing,"Sensitive, Dry"
+200,Hydra Glow 518,BrandB,Mask,"Glycolic Acid, Salicylic Acid","Exfoliation, Anti-Aging","Combination, Oily, Dry"
